@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "529397026961",
+    "project_id": "uthauthdemo",
+    "storage_bucket": "uthauthdemo.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:529397026961:android:1d7d2e55f71349eaa42f30",
+        "android_client_info": {
+          "package_name": "com.example.uthsmarttasks"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCszlZpYUr9NPZXV5nEHOesW0jlJYzrZFQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:529397026961:android:a731ba3289a044c8a42f30",
+        "android_client_info": {
+          "package_name": "om.example.uthauthdemo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCszlZpYUr9NPZXV5nEHOesW0jlJYzrZFQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

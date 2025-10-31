@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 🏷️ Tên ứng dụng -->
+    <string name="app_name">UTHSmartTasks</string>
+
+    <!-- 🌐 ID web client từ Firebase console -->
+    <!-- ⚠️ Thay giá trị này bằng client_id thật trong file google-services.json -->
+    <string name="default_web_client_id">
+        YOUR_WEB_CLIENT_ID_HERE.apps.googleusercontent.com
+    </string>
+
+    <!-- 🧭 Các chuỗi giao diện -->
+    <string name="sign_in_title">Đăng nhập Google</string>
+    <string name="sign_in_button">Đăng nhập với Google</string>
+    <string name="sign_out_button">Đăng xuất</string>
+    <string name="welcome_user">Xin chào, %1$s!</string>
+    <string name="loading">Đang xử lý...</string>
+    <string name="login_failed">Đăng nhập thất bại. Vui lòng thử lại.</string>
+</resources>
